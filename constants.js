@@ -1,7 +1,7 @@
 const DEFAULT_LOG_LEVEL = 'info';
 
 // The name of the key used for the metadata object
-const STRIGO_META_NAME = 'strigo';
+const STRIGO_META_NAME = 'attached_params';
 
 // Root level fields from ECS: https://www.elastic.co/guide/en/ecs/current/
 const ECS_RESERVED = [
